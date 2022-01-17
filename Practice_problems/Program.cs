@@ -10,6 +10,8 @@ namespace Practice_problems
             date.Getdate();
             date.GetYear();
             date.getstring();
+            uc1 uc = new uc1();
+            uc.Addnumbers();
          
            
         }
