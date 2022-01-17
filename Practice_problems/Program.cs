@@ -9,7 +9,7 @@ namespace Practice_problems
             DatePro date = new DatePro();
             date.Getdate();
             date.GetYear();
-          
+         
            
         }
     }
