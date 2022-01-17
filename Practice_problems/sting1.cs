@@ -10,6 +10,8 @@ namespace Practice_problems
         {
             string str2 = "welcome to uc2";
             Console.WriteLine(str2);
+            string str3 = "Welcome to Uc3";
+            Console.WriteLine(str3);
         }
         
     }
