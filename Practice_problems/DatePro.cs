@@ -17,6 +17,11 @@ namespace Practice_problems
             DateTime dt2 = new DateTime(2015, 12, 31);
             Console.WriteLine(dt2);
         }
+        public void getstring()
+        {
+            string str1 = "hello";
+            Console.WriteLine(str1);
+        }
          
         
            
